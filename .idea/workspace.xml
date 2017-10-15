@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dc376f8-a4c2-41cb-b341-ebf36ef39bd5" name="Default" comment="" />
+    <list default="true" id="6dc376f8-a4c2-41cb-b341-ebf36ef39bd5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,20 +15,123 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="63">
+                  <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gulpfile.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="layout.pug" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pug/inc/layout.pug">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1008">
+                  <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.pug" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pug/index.pug">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="42">
+                  <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="signup.pug" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pug/signup.pug">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="13" column="199" lean-forward="true" selection-start-line="13" selection-start-column="199" selection-end-line="13" selection-end-column="199" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Pug File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;meta</find>
+      <find>&lt;meta</find>
+      <find>&quot;&gt;</find>
+      <find>meta</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;)</replace>
+      <replace>meta(</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../QuiFaitCa/package.json" />
-        <option value="$PROJECT_DIR$/../QuiFaitCa/package.js" />
+        <option value="$PROJECT_DIR$/package.js" />
+        <option value="$PROJECT_DIR$/../mathmaniac/package.json" />
+        <option value="$PROJECT_DIR$/package.json.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/routes/routes.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/index.pug" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/pug/_header.pug" />
+        <option value="$PROJECT_DIR$/pug/inc/footer.pug" />
+        <option value="$PROJECT_DIR$/pug/inc/_header.pug" />
+        <option value="$PROJECT_DIR$/pug/inc/_footer.pug" />
+        <option value="$PROJECT_DIR$/pug/layout.pug" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pug/inc/layout.pug" />
+        <option value="$PROJECT_DIR$/pug/signup.pug" />
+        <option value="$PROJECT_DIR$/pug/index.pug" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -36,10 +141,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1050" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -56,19 +168,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuiFaitCa" type="b2602c69:ProjectViewProjectNode" />
               <item name="QuiFaitCa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuiFaitCa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuiFaitCa" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuiFaitCa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuiFaitCa" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuiFaitCa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuiFaitCa" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuiFaitCa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuiFaitCa" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -76,6 +209,18 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.3.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marvin\Documents\Projects\QuiFaitCa\pug\inc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marvin\Documents\Projects\QuiFaitCa\css" />
+      <recent name="C:\Users\Marvin\Documents\Projects\QuiFaitCa\js\" />
+      <recent name="C:\Users\Marvin\Documents\Projects\QuiFaitCa" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,34 +245,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506569956139</updated>
-      <workItem from="1506569959840" duration="2333000" />
+      <workItem from="1506569959840" duration="5809000" />
+      <workItem from="1506890999275" duration="7422000" />
+      <workItem from="1506902457202" duration="14641000" />
+      <workItem from="1506958119716" duration="2162000" />
+      <workItem from="1507046826507" duration="2079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2333000" />
+    <option name="totallyTimeSpent" value="32113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="976" height="1050" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24321502" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12109995" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853982" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3325893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853982" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12109995" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -140,23 +309,82 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../QuiFaitCa/bin/www">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1665">
+        <state relative-caret-position="63">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../QuiFaitCa/app.js">
+    <entry file="file://$PROJECT_DIR$/pug/inc/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
+        <state relative-caret-position="1008">
+          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="141" lean-forward="false" selection-start-line="8" selection-start-column="141" selection-end-line="8" selection-end-column="141" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/signup.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../QuiFaitCa/package.json">
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="file://$PROJECT_DIR$/views/index.pug" />
+    <entry file="file://$PROJECT_DIR$/views/layout.pug" />
+    <entry file="file://$PROJECT_DIR$/bin/www" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js" />
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/../mathmaniac/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="file://$PROJECT_DIR$/views/index.pug" />
+    <entry file="file://$PROJECT_DIR$/views/layout.pug" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/routes/users.js" />
+    <entry file="file://$PROJECT_DIR$/bin/www" />
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="9" selection-end-column="29" />
@@ -164,26 +392,327 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../QuiFaitCa/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.js" />
+    <entry file="file://$PROJECT_DIR$/../mathmaniac/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/routes.js" />
+    <entry file="file://$PROJECT_DIR$/routes/users.js" />
     <entry file="file://$PROJECT_DIR$/../mathmaniac/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="79">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.pug" />
+    <entry file="file://$PROJECT_DIR$/bin/www" />
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="file://$PROJECT_DIR$/views/index.pug" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/Marvin/Documents/Projects/QuiFaitCa">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/build/airtable.browser.js#AirtableError#1151;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#Base#337631;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#Class#508;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#Query#20815;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#Record#337661;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#Table#1200;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#_#1041;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#_process#65599;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#assert#337566;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#async#20663;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#callbackToPromise#10182;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#check#10080;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#deprecate#20775;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#forEach#336324;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#inherits.js#95801;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#internalConfig#1068;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#isBuffer#94437;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#isFunction#334696;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#objectToQueryParamString#18914;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#parseHeaders#326589;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#request#19040;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#runAction#1232;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#trim#336297;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#util#67273;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#window#326511;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/build/airtable.browser.js#xtend#326633;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/airtable.js#Base#84;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/airtable.js#Class#52;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/airtable.js#Record#114;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/airtable.js#Table#148;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/airtable.js#assert#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/airtable_error.js#Class#19;</node>
+            <node x="" y="">$PROJECT_DIR$/app.js#bodyParser#183;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#cookieParser#138;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#express#4;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#favicon#66;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#index#253;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#logger#106;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#path#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#pug#226;C:/Users/Marvin/Documents/Projects/QuiFaitCa/app.js#users#292;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/application.js#Router#274;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#View#485;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#compileETag#557;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#compileQueryParser#614;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#compileTrust#672;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#debug#432;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#deprecate#709;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#finalhandler#230;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#flatten#753;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#http#515;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#merge#793;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#methods#308;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#middleware#342;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#query#389;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#resolve#839;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/assert.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/async/lib/async.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/attributes.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/attributes.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/base.js#AirtableError#129;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/base.js#Class#97;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/base.js#Table#178;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/base.js#_#19;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/base.js#internalConfig#46;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/base.js#runAction#210;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/support/benchmark.js#pug#71;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/support/benchmark.js#uubench#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/callback_to_promise.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/class.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/webpack-plugin/client.js#hash#6;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/webpack-plugin/client.js#uniq#39;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/code.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/code.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/bundle-renderer/create-bundle-renderer.js#PassThrough#297;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/bundle-renderer/create-bundle-renderer.js#fs#229;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/bundle-renderer/create-bundle-renderer.js#path#254;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js#NativeModule#140;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js#file#1626;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js#path#76;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js#resolve#105;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js#vm#51;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/debug.js#index.js#354;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/deprecate.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/dynamicscript.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/each.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/each.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/platforms/weex/entry-framework.js#VueFactory#92;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/events.js#EventEmitter#1291;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/express.js#EventEmitter#233;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#Route#349;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#Router#388;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#index.js#1513;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#mixin#269;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#proto#311;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#query.js#1465;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#req#422;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/express.js#res#454;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/extend.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/extend.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/form.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/form.js#str#104;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/fs.js#readFileSync#14035;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/http.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/xtend/immutable.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/includes.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/includes.js#str#108;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/types/index.d.ts#Options#35;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/index.d.ts#Plugin#73;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/index.d.ts#V#7;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/index.d.ts#VNode#109;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/iconv-lite/lib/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-runtime/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-load/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/index.js#Airtable#69;C:/Users/Marvin/Documents/Projects/QuiFaitCa/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chalk/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/lib/index.js#filters#343;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#fs#141;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#generateCode#415;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#lex#193;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#link#381;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#load#311;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#parse#276;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#path#165;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#runtime#459;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#runtimeWrap#497;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/lib/index.js#stripComments#225;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-linker/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-filters/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/is-function/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-lexer/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/depd/index.js</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-code-gen/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/template-renderer/index.js#path#19;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/src/server/template-renderer/index.js#serialize#48;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-type/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js#browser.js#186;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/request/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/index.js#Layer#262;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#Route#230;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#debug#364;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#deprecate#412;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#flatten#456;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#methods#294;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#mixin#328;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#parseUrl#496;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/morgan/index.js#auth#411;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/morgan/index.js#debug#444;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/morgan/index.js#deprecate#483;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/morgan/index.js#onFinished#525;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bytes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ms/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js#deprecate#156;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/index.js#json.js#2302;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/index.js#raw.js#2373;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/index.js#text.js#2444;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/index.js#urlencoded.js#2522;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/index.js#Buffer#236;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/serve-favicon/index.js#etag#270;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/serve-favicon/index.js#fresh#297;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/serve-favicon/index.js#fs#326;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/serve-favicon/index.js#ms#349;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/serve-favicon/index.js#parseUrl#372;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/serve-favicon/index.js#path#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie-parser/index.js#cookie#190;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/cookie-parser/index.js#signature#222;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/utils-merge/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/accepts/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/for-each/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/setprototypeof/index.js</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/trim/index.js</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/resolve/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/http-errors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/raw-body/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/range-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-strip-comments/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/inherits/inherits.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/inspector-log.js#nullStream#70;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/internal_config.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js#bytes#190;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/json.js#contentType#219;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/json.js#createError#261;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/json.js#debug#302;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/json.js#read#351;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/json.js#typeis#381;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/layer.js#debug#274;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/layout-debug.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/layout.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/layout.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash/dist/lodash.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/mixins.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/mixins.js#str#106;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/module.js</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/net.js#isIP#46148;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/node.js#debug.js#214;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/debug/src/node.js#fs#4406;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/debug/src/node.js#net#4575;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/debug/src/node.js#tty#37;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/object_to_query_param_string.js#_#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/types/options.d.ts#AsyncComponent#302;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#Component#158;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#ComponentOptions#474;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#CreateElement#14;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#DirectiveFunction#2912;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#DirectiveOptions#3038;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#FunctionalComponentOptions#2034;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#VNode#53;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#VNodeData#60;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#VNodeDirective#71;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#Vue#9;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#WatchHandler#2764;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/options.d.ts#WatchOptions#2836;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parse-headers/parse-headers.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/template-renderer/parse-template.js#compile#19;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/path.js#resolve#35249;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/types/plugin.d.ts#PluginFunction#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/plugin.d.ts#PluginObject#112;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/plugin.d.ts#_Vue#9;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/query.js#merge#218;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/middleware/query.js#parseUrl#253;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/middleware/query.js#qs#289;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/query.js#Class#115;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/query.js#Record#147;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/query.js#_#51;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/query.js#assert#19;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/query.js#callbackToPromise#181;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/query.js#check#79;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/querystring.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js#bytes#144;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/raw.js#debug#173;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/raw.js#read#221;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/raw.js#typeis#251;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/read.js#createError#156;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/read.js#getBody#197;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/read.js#iconv#231;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/read.js#onFinished#265;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/read.js#zlib#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/record.js#Class#47;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/record.js#_#19;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/record.js#callbackToPromise#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/register.js#pug#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/render-stream.js#stream#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/request.js#accepts#230;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#deprecate#264;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#fresh#401;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#http#373;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#isIP#315;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#parse#473;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#parseRange#431;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#proxyaddr#506;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/response.js#contentDisposition#194;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#cookie#793;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#deprecate#251;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#encodeUrl#295;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#escapeHtml#333;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#http#374;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#isAbsolute#415;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#merge#554;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#normalizeType#651;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#normalizeTypes#706;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#onFinished#450;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#path#491;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#send#825;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#setCharset#758;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#sign#597;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#statuses#519;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/response.js#vary#931;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/route.js#Layer#324;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/route.js#debug#230;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/route.js#flatten#284;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/rss.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/rss.js#str#103;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/run_action.js#internalConfig#19;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/run_action.js#objectToQueryParamString#70;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/run_action.js#request#196;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/bundle-renderer/source-map-support.js#SourceMapConsumer#39;</node>
+            <node x="" y="">SourceMapConsumer;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/stream.js#PassThrough#1551;C:/Users/Marvin/.WebStorm2017.2/config/javascript/nodejs/8.3.0/core-modules/stream.js#Transform#1502;C:/Users/Marvin/.WebStorm2017.2/config/javascript/nodejs/8.3.0/core-modules/stream.js#Writable#1412;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/table.js#AirtableError#110;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#Class#159;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#Query#231;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#Record#263;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#_#19;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#assert#47;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#async#79;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#callbackToPromise#297;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/airtable/lib/table.js#deprecate#191;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/template-renderer/template-stream.js#Transform#31;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/text.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/text.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js#bytes#144;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/text.js#contentType#173;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/text.js#debug#215;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/text.js#read#264;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/text.js#typeis#294;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/tty.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/airtable/lib/typecheck.js#_#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js#bytes#190;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#contentType#219;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#createError#261;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#debug#302;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#deprecate#357;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#index.js#4477;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#querystring.js#4539;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#read#404;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/body-parser/lib/types/urlencoded.js#typeis#434;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/users.js#express#4;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/src/server/webpack-plugin/util.js#index.js#24;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/utils.js#compileETag#3405;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#compileQueryParser#3955;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#compileTrust#4605;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#contentDisposition#198;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#contentType#255;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#deprecate#298;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#etag#415;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#flatten#342;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#isAbsolute#1267;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#mime#389;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#normalizeType#1874;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#normalizeTypes#2152;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#proxyaddr#443;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#qs#482;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#querystring#506;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/utils.js#setCharset#5202;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/view.js#__express#1537;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/view.js#debug#230;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/view.js#fs#304;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/express/lib/view.js#path#276;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/vm.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/types/vnode.d.ts#ScopedSlot#30;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vnode.d.ts#VNode#285;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vnode.d.ts#VNodeChildren#109;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vnode.d.ts#VNodeData#786;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vnode.d.ts#VNodeDirective#1472;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vnode.d.ts#Vue#9;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vue/types/vue.d.ts#AsyncComponent#24;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#Component#11;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#ComponentOptions#42;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#CreateElement#311;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#DirectiveFunction#144;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#DirectiveOptions#124;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#FunctionalComponentOptions#62;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#PluginFunction#262;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#PluginObject#278;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#ScopedSlot#224;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#VNode#191;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#VNodeChildren#209;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#VNodeData#198;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#Vue#839;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#WatchHandler#108;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/vue/types/vue.d.ts#WatchOptions#92;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/whitespace.js#pug#38;C:/Users/Marvin/Documents/Projects/QuiFaitCa/node_modules/pug/examples/whitespace.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/global/window.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-runtime/wrap.js</node>
+            <node x="" y="">$PROJECT_DIR$/bin/www#app#58;C:/Users/Marvin/Documents/Projects/QuiFaitCa/bin/www#debug#87;C:/Users/Marvin/Documents/Projects/QuiFaitCa/bin/www#http#137;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.3.0/core-modules/zlib.js</node>
+            <node x="" y="" />
+            <node x="" y="">_process</node>
+            <node x="" y="">airtable_error</node>
+            <node x="" y="">base</node>
+            <node x="" y="">callback_to_promise</node>
+            <node x="" y="">class</node>
+            <node x="" y="">debug</node>
+            <node x="" y="">deprecate</node>
+            <node x="" y="">factory</node>
+            <node x="" y="">file</node>
+            <node x="" y="">hash-sum</node>
+            <node x="" y="">internal_config</node>
+            <node x="" y="">isBuffer</node>
+            <node x="" y="">lodash.template</node>
+            <node x="" y="">lodash.uniq</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/lib/index.js#__express#12357;</node>
+            <node x="" y="">object_to_query_param_string</node>
+            <node x="" y="">query</node>
+            <node x="" y="">record</node>
+            <node x="" y="">run_action</node>
+            <node x="" y="">serialize-javascript</node>
+            <node x="" y="">table</node>
+            <node x="" y="">typecheck</node>
+            <node x="" y="">uubench</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.21117543418072" x="2013.0" y="1917.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/pug/inc/_header.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/inc/_footer.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout.html" />
+    <entry file="file://$PROJECT_DIR$/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.510/Morphext-2.4.4/dist/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="0" column="944" lean-forward="false" selection-start-line="0" selection-start-column="944" selection-end-line="0" selection-end-column="944" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.986/Morphext-2.4.4/dist/morphext.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/morphext.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../QuiFaitCa/package.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="111" column="40" lean-forward="false" selection-start-line="111" selection-start-column="40" selection-end-line="111" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/inc/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/signup.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="13" column="199" lean-forward="true" selection-start-line="13" selection-start-column="199" selection-end-line="13" selection-end-column="199" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>

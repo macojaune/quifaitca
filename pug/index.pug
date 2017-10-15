@@ -1,0 +1,26 @@
+extends inc/layout
+block content
+	.container
+		.row
+			.col
+				h1.hide-on-large-only.show-on-medium-and-down QuiFait
+					b.yellow-text Ça ?
+				h1.hide-on-med-and-down QuiFait
+					b.yellow-text#ca Ça, Des sites, Des clips, Des applications, Des photos, Des designs, Des illustrations, Des vidéos, Des Animations
+					|  ?
+				p.flow-text.white-text  Trouvez le créatif parfait pour votre projet. Visitez son portfolio et 
+					b rentrez en contact !
+		.row.hide
+			.col.s6.offset-s3
+				.card.grey.lighten-4.valign-wrapper
+					h2.flow-text.center-align 
+						a(href="mailto:sponsor@quifaitca.fr?subject=Je\ Veux\ Etre Sponsor de QuiFaitÇa\?") Sponsorisez cette page pour 
+							b.black-text 250€ / mois
+		.row
+			.col.s12
+				p.flow-text.center-align.white-text Toi aussi, tu es un créatif des Antilles ? 
+					a#signup.btn.light-blue(href="/signup.html")
+						b Apparais sur cette liste
+		.row
+			.col.s12
+				iframe(class="airtable-embed" src="https://airtable.com/embed/shrCVjerMVri9TltT?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;")

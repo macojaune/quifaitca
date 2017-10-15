@@ -1,0 +1,14 @@
+{
+  "name": "QuiFaitCa",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-pug2": "0.0.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
